@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31058" started-at="2018-07-12T13:45:06Z" finished-at="2018-07-12T13:45:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31058" started-at="2018-07-12T13:45:06Z" finished-at="2018-07-12T13:45:37Z">
+      <class name="Interview.CacheLookupDemo">
+        <test-method status="PASS" signature="TestFirstandLastFields()[pri:0, instance:Interview.CacheLookupDemo@475530b9]" name="TestFirstandLastFields" duration-ms="31031" started-at="2018-07-12T13:45:06Z" finished-at="2018-07-12T13:45:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFirstandLastFields -->
+      </class> <!-- Interview.CacheLookupDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
